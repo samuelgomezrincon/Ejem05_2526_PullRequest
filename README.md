@@ -4,3 +4,5 @@
 
 Edición del readme
 
+tenemos una rama nueva llamada samuel gómez
+
